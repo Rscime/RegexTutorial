@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# HEX VALUE REGEX TUTORIAL
 
 The following is a Regex, or Regular Function, tutorial for the Matching A Hex value function:
 '/^#?([a-f0-9]{6}|[3])$/'
